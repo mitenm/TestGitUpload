@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\C# codes\TestGitUpload\TestGitUpload\obj\x86\Debug\TestGitUpload.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\C# codes\TestGitUpload\TestGitUpload\bin\Debug\TestGitUpload.exe.config
+C:\Users\user\Desktop\C# codes\TestGitUpload\TestGitUpload\bin\Debug\TestGitUpload.exe
+C:\Users\user\Desktop\C# codes\TestGitUpload\TestGitUpload\bin\Debug\TestGitUpload.pdb
+C:\Users\user\Desktop\C# codes\TestGitUpload\TestGitUpload\bin\Debug\nunit.framework.dll
+C:\Users\user\Desktop\C# codes\TestGitUpload\TestGitUpload\bin\Debug\nunit.framework.xml
+C:\Users\user\Desktop\C# codes\TestGitUpload\TestGitUpload\obj\x86\Debug\TestGitUpload.exe
+C:\Users\user\Desktop\C# codes\TestGitUpload\TestGitUpload\obj\x86\Debug\TestGitUpload.pdb
